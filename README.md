@@ -14,4 +14,5 @@ Problem List for August 2020 LeetCode Challenge
 8. August 08, 2020: *437*. Path Sum III -[Medium] https://leetcode.com/problems/path-sum-iii/
 9. August 09, 2020: *994*. Rotting Oranges -[Medium] https://leetcode.com/problems/rotting-oranges/
 10. August 10, 2020: *171*. Excel Sheet Column Number -[Easy] https://leetcode.com/problems/excel-sheet-column-number/
+11. August 11, 2020: *274*. H-Index -[Medium] https://leetcode.com/problems/h-index/
 
